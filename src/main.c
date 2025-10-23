@@ -22,5 +22,5 @@ int main(void) {
     disable_timg_wdt(TIMG0_BASE);
     disable_timg_wdt(TIMG1_BASE);
     disable_rtc_wdts();
-    }
+}
  
